@@ -1,1 +1,1 @@
-Complex network FlipIt game
+Complex network FlipIt game.
